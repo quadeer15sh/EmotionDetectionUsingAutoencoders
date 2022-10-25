@@ -23,6 +23,7 @@
 
 ## Variational Autoencoders
 - The essence of this repo is to use autoencoders for evaluating the reconstruction loss for audios with different emotions. A variational autoencoder captures this really well.
+- 
 ![](https://www.jeremyjordan.me/content/images/2018/03/Screen-Shot-2018-03-18-at-12.24.19-AM.png)
 
 ## Python Libraries Required
